@@ -1,1 +1,12 @@
-
+h1{
+    text-align: center;
+    background-color: rgb(103, 174, 101);
+}
+body{
+    background-color: rgb(96, 85, 169);
+}
+.catalog{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
